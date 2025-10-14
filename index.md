@@ -4,11 +4,8 @@ layout: default
 
 [M A Zuha](https://armandsl.github.io) | [Photography Portfolio](./)
 
-[Photography Portfolio](#)
+[Photography Portfolio](./)     | [Featured](#featured) | [Travel Journal](#journal) | [About](#about) | [Contact](#contact)
 
-[Featured](#featured) [Travel Journal](#journal) [About](#about) [Contact](#contact)
-
-[Featured](#featured) [Travel Journal](#journal) [About](#about) [Contact](#contact)
 
 PHOTOGRAPHY PORTFOLIO: CAPTURING MOMENTS & DOCUMENTATION
 ========================================================
@@ -17,7 +14,7 @@ PHOTOGRAPHY PORTFOLIO: CAPTURING MOMENTS & DOCUMENTATION
 
 [Explore My Work](#featured)
 
-Featured Professional Work
+## Featured
 --------------------------
 
 ![Featured Photo: Beautiful Sajek Night](assets/img/the-sajek-night-with-border.jpg)
@@ -32,28 +29,27 @@ Beyond the railing, the view opens up to a dark mountainous landscape dotted wit
 
 [Inquire About Licensing](#contact)
 
-Travel Journal: Sajek Adventures
+## Journal
+Sajek Adventures
 --------------------------------
 
 "Documenting the journey is just as important as the destination. These snapshots capture the candid, joyful moments of a recent trip to the Khagrachari and Sajek, Bangladesh."
 
-![Travel Snapshot 1: Pointing at the Bash Jhar Restaurant sign.](/assets/img/pointing-bashJhar-restaurant-sign.jpg)
-
-![Travel Snapshot 2: Peace sign pose outside the restaurant.](/assets/img/peace-sign-pose-outside-at-the-restaurant.jpg)
-
-![Travel Snapshot 3: Outside the restaurant.](/assets/img/my-family-photo.jpg)
+![Travel Snapshot 1: Pointing at the Bash Jhar Restaurant sign.](/assets/img/pointing-bashJhar-restaurant-sign.jpg) | ![Travel Snapshot 2: Peace sign pose outside the restaurant.](/assets/img/peace-sign-pose-outside-at-the-restaurant.jpg) | ![Travel Snapshot 3: Outside the restaurant.](/assets/img/my-family-photo.jpg)
 
 Location: Bash Jhar Restaurant Area, Khagrachari
 
 ![My Family Photo](https://raw.githubusercontent.com/armandsl/photography-portfolio/refs/heads/main/assets/img/my-family-photo.jpg)
 
-About M A Zuha
+## About
+M A Zuha
 --------------
 
-Based in Dhaka, I am a developer, writer, and photographer driven by a deep passion for \*\*traveling and documenting\*\* my experiences. My photography focuses on capturing the \*\*diverse landscapes and rich cultural heritage of Bangladesh\*\*, aiming to tell compelling stories with every frame. As a CEO of ZuhaWorld Social Impact, I believe in using my creative work to highlight the beauty and spirit of the people I meet.
+Based in Dhaka, I am a developer, writer, and photographer driven by a deep passion for **traveling and documenting** my experiences. My photography focuses on capturing the **diverse landscapes and rich cultural heritage of Bangladesh**, aiming to tell compelling stories with every frame. As a CEO of ZuhaWorld Social Impact, I believe in using my creative work to highlight the beauty and spirit of the people I meet.
 
 "One can't help everyone, but everyone can help someone."
 
+## Contact
 Get In Touch
 ------------
 
