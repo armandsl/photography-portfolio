@@ -1,7 +1,7 @@
 # Photography Portfolio
 
-*[preview after applying this theme what it looks like](https://armandsl.github.io/photography-portfolio).*
-![Thumbnail of Photography Portfolio](https://raw.githubusercontent.com/armandsl/photography-portfolio/refs/heads/main/assets/img/thumbnail.jpg)
+*Minimal is a Jekyll theme for GitHub Pages. You can [preview after applying this theme what it looks like](https://armandsl.github.io/photography-portfolio).*
+![Thumbnail of Photography Portfolio](thumbnail.png)
 
 Please follow the instructions below to use the repository:
 ## Table of Contents
@@ -14,7 +14,7 @@ Please follow the instructions below to use the repository:
 - [Contact](#contact)
 
 ## Introduction
-Photography Portfolio site is used Minimal Jekyll theme for GitHub Pages. Help us make these docs or pages great!
+This site is used Minimal Jekyll theme for GitHub Pages. Help us make these docs or pages great!
 
 ## Features
 - **Explore My Work**: Featured Professional Work.
