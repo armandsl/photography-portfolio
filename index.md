@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![Homepage Logo](https://raw.githubusercontent.com/armandsl/photography-portfolio/refs/heads/main/assets/img/homepage-logo.png)     |        [Home](./) | [Featured](#featured) | [Travel Journal](#journal) | [About](#about) | [Contact](#contact) | [M A Zuha](https://armandsl.github.io)
+![Homepage Logo](https://raw.githubusercontent.com/armandsl/photography-portfolio/refs/heads/main/assets/img/homepage-logo.png)     |  [Featured](#featured) | [Travel Journal](#journal) | [About](#about) | [Contact](#contact) | [M A Zuha](https://armandsl.github.io)
 
 
 PHOTOGRAPHY PORTFOLIO
