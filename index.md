@@ -40,7 +40,7 @@ Beyond the railing, the view opens up to a dark mountainous landscape dotted wit
 
 Location: Bash Jhar Restaurant Area, Khagrachari
 
-![Next Generation](https://raw.githubusercontent.com/armandsl/photography-portfolio/refs/heads/main/assets/img/next-generation.png))
+![Next Generation](https://raw.githubusercontent.com/armandsl/photography-portfolio/refs/heads/main/assets/img/next-generation.png)
 
 ## About
 --------------
