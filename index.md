@@ -2,13 +2,13 @@
 layout: default
 ---
 
-[M A Zuha](https://armandsl.github.io) | [Photography Portfolio](./)
-
-[Photography Portfolio](./)     | [Featured](#featured) | [Travel Journal](#journal) | [About](#about) | [Contact](#contact)
+[Site Logo](https://raw.githubusercontent.com/armandsl/photography-portfolio/refs/heads/main/assets/img/site-logo.png)     |  [Photography Portfolio](./)     | [Featured](#featured) | [Travel Journal](#journal) | [About](#about) | [Contact](#contact) | [M A Zuha](https://armandsl.github.io)
 
 
-PHOTOGRAPHY PORTFOLIO: CAPTURING MOMENTS & DOCUMENTATION
+PHOTOGRAPHY PORTFOLIO
 ========================================================
+
+CAPTURING MOMENTS & DOCUMENTATION
 
 "Capturing the diverse landscapes and rich cultural heritage of Bangladesh."
 
@@ -30,8 +30,9 @@ Beyond the railing, the view opens up to a dark mountainous landscape dotted wit
 [Inquire About Licensing](#contact)
 
 ## Journal
-Sajek Adventures
 --------------------------------
+
+### Travel Journal: Sajek Adventures
 
 "Documenting the journey is just as important as the destination. These snapshots capture the candid, joyful moments of a recent trip to the Khagrachari and Sajek, Bangladesh."
 
@@ -39,23 +40,25 @@ Sajek Adventures
 
 Location: Bash Jhar Restaurant Area, Khagrachari
 
-![My Family Photo](https://raw.githubusercontent.com/armandsl/photography-portfolio/refs/heads/main/assets/img/my-family-photo.jpg)
+![Next Generation](https://raw.githubusercontent.com/armandsl/photography-portfolio/refs/heads/main/assets/img/next-generation.png))
 
 ## About
-M A Zuha
 --------------
+
+### About M A Zuha
 
 Based in Dhaka, I am a developer, writer, and photographer driven by a deep passion for **traveling and documenting** my experiences. My photography focuses on capturing the **diverse landscapes and rich cultural heritage of Bangladesh**, aiming to tell compelling stories with every frame. As a CEO of ZuhaWorld Social Impact, I believe in using my creative work to highlight the beauty and spirit of the people I meet.
 
 "One can't help everyone, but everyone can help someone."
 
 ## Contact
-Get In Touch
 ------------
+
+### Get In Touch
 
 Interested in collaboration, prints, or just want to connect? Send me a message!
 
-Email: [contact@zuha.world (Placeholder)](mailto:contact@portfolio.zuha.site)
+Email: [contact@zuha.world (M A Zuha)](mailto:contact@portfolio.zuha.site)
 
 Location: Dhaka, Bangladesh
 
